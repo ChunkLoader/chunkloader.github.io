@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to the ChunkLoader's website
 
-You can use the [editor on GitHub](https://github.com/ChunkLoader/chunkloader.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Qui suis-je ?**
+  Je suis avant tout un jeune passionné d'informatique qui travaille chaque jour dans diverses projets plus ou moins importants.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Quels projets ?**
+  Actuellement mes projets personnels sont gardés secrets mais poretent sur la robotique, l'électronique ... et mes projets dits "publics" sont en nombre conséquents ... En voici quelques-uns :
 
-### Markdown
+    - [LesBlancsEnNeige](http://discord.club/i/lesblancsenneige) : Serveur Minecraft vanilla encore jamais vu avec des ajouts incroyables dans le but de faire découvrir un nouvel aspect de Minecraft
+    - [Developpers](https://discord.gg/Mh2GxNZ) : Serveur d'apprentissage et de services en programmation avec des formations faites maisons. Manque toutefois cruellement d'activité ...
+    - Et beaucoup, beaucoup d'autres !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChunkLoader/chunkloader.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Tu fais quoi dans tout ça ?**
+  Etant assez polyvalent, je développe principalement (C++, NodeJs, Java, Python ...) mais fais aussi du graphisme ou du management.
